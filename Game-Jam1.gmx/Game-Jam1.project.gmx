@@ -10,7 +10,6 @@
     <sprite>sprites\sTrisStand</sprite>
     <sprite>sprites\sSolid</sprite>
     <sprite>sprites\sMaskTris</sprite>
-    <sprite>sprites\sBat</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\tiles</background>
@@ -30,7 +29,6 @@
     <object>objects\oSolid</object>
     <object>objects\oGhosting</object>
     <object>objects\oCamera</object>
-    <object>objects\oBat</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

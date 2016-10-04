@@ -103,6 +103,9 @@
     <instance objName="oSolid" x="40" y="232" name="inst_769E1D1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oSolid" x="16" y="224" name="inst_3AD14B9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oBat" x="96" y="104" name="inst_D844407B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBat" x="112" y="96" name="inst_5E1B60F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBat" x="136" y="104" name="inst_F1DA2960" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBat" x="136" y="128" name="inst_46CB0B66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bBoard" x="0" y="40" w="8" h="8" xo="0" yo="0" id="10000017" name="inst_6DE25A45" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -396,13 +399,9 @@
     <tile bgName="bBoard" x="136" y="48" w="8" h="8" xo="0" yo="0" id="10001013" name="inst_50AF6007" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="144" y="48" w="8" h="8" xo="0" yo="0" id="10001014" name="inst_D651C920" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="152" y="48" w="8" h="8" xo="0" yo="0" id="10001015" name="inst_AA1E8A46" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bBoard" x="160" y="48" w="8" h="8" xo="0" yo="0" id="10001016" name="inst_D0013F1D" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bBoard" x="160" y="24" w="8" h="8" xo="0" yo="0" id="10001019" name="inst_92F8B73B" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="152" y="24" w="8" h="8" xo="0" yo="0" id="10001020" name="inst_8F44DD31" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="144" y="32" w="8" h="8" xo="0" yo="0" id="10001026" name="inst_EB40C7EA" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="152" y="32" w="8" h="8" xo="0" yo="0" id="10001027" name="inst_241117E3" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bBoard" x="160" y="32" w="8" h="8" xo="0" yo="0" id="10001028" name="inst_E36D5AB0" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bBoard" x="160" y="40" w="8" h="8" xo="0" yo="0" id="10001029" name="inst_05AA6347" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="152" y="40" w="8" h="8" xo="0" yo="0" id="10001030" name="inst_740E150D" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="144" y="40" w="8" h="8" xo="0" yo="0" id="10001031" name="inst_B9D2093C" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bBoard" x="136" y="32" w="8" h="8" xo="0" yo="0" id="10001033" name="inst_D0E6DEA8" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

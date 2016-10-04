@@ -11,6 +11,8 @@
     <sprite>sprites\sSolid</sprite>
     <sprite>sprites\sMaskTris</sprite>
     <sprite>sprites\sBat</sprite>
+    <sprite>sprites\sCP2</sprite>
+    <sprite>sprites\sCP1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\tiles</background>
